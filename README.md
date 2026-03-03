@@ -148,7 +148,8 @@ app/streamlit_app.py
 ```
 
 5. Deploy
-
+🚀 Acesse o app online:
+https://seu-link.streamlit.app
 ---
 
 ## 🛠️ Tecnologias Utilizadas
